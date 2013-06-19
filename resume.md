@@ -13,16 +13,15 @@
 
 ### Red Flag Linux Co. Ltd, <small>Software Developer, 2011 - Present</small>
 
-* Red Flag Desktop 6, 7, and 8 system development and maintainment
-* System management tools for Desktop, i.e display settings, power management, network management
-* Participate in the KDE development, got kde svn/git account, have commits into kdelibs, kdebase and phonon projects.
-* Bug fixes for KDE4 components, Plasma, 
-* research project for improving konqueror by providing more plugins (partially finished)
-* embedding Gecko(firefox rendering engine) into konqueror (partially finished)
-* build project management website for internal usage
-* Designing and building simple realtime web app framework for desktop system
-* Nodejs powered installer for Qomo and Linux Desktop
-* web-based software center backend
+* Red Flag Desktop 8 system maintenance, fixes bugs.
+* RedFlag inWise, Qomo 4.0, 4.1 and 4.2 system development from scratch and maintenance.
+* Updating and maintenance of the packages depot.
+* Bug fixes for installation program. (c, c++, Qt, shell)
+* Bug fixes for KDE4 components, Plasma. (c++)
+* build Brainstorming website for internal usage. (rais, html, css, js)
+* web-based Projects pages and software center. (c, c++, js)
+(<a href="http://qomo.linux-ren.org">qomo.linux-ren.org</a>)
+* A mobile application backend(Nodejs, socket.io)
 
 ## Personal Projects
 
@@ -49,32 +48,33 @@
 
 <div id="projects">
 	<h3>
-        iShell 
-        <span class="date">Present</span>
+        cloud-wallpaper
+        <span class="date">2012</span>
     </h3>
-    <p>a simple shell written in 
-    <span class="language">Objective C</span> just for fun.</p>
+    <p>Easy deployment,backend program. written in 
+    <span class="language">nodejs</span> and <span class="language">rails</span>.
+    not finished.</p>
 
 	<h3>
-        Semacs 
+        LFS
         <span class="date">2011</span>
     </h3>
-    <p>prototyping implementation of micro emacs clone. written in <span
-    class="language">C</span>. not finished.</p>
+    <p>linux from scratch. 
+     To know linux.</p>
 
 	<h3> 
-        Loopy
+        Student achievement management system
         <span class="date">2011</span>
     </h3>
-    <p>cloned from original author, and add some missing features that I
-    needed.</p>
+    <p>the Graduation Thesis, written in <span class="language">C</span>.
+    </p>
 	
 	<h3> 
-        Yos
-        <span class="date">2009</span>
+        Socket server
+        <span class="date">2010</span>
     </h3>
-    <p>my own OS venture based on skelix concept. I'm planning to rewrite the
-    kernel next year.</p>
+    <p>simple socket server, written in <span class="language">C</span>,just for fun.
+    </p>
 
 </div>
 
@@ -85,17 +85,8 @@
         Hubei University Of Education, Information and Computing Sciences, <small>2007 - 2011</small>
     </h3>
 	<p>B.S. in Computer Science</p>
-	
-    projects during study:
 
-    <ul>
-    <li> 2005.7 - 2006.2, Graduate Management Info-System of Wuhan University </li>
-    <li> 2006.2 - 2007.2, Veri Expert System </li>
-    <li> 2006.8 - 2007.4, Predict and Personnel-Arrange system for chongqing power95598  </li>
-    <li> 2006.8 - 2006.9  MIS for TV station of Wuhan University  </li>
-    </ul>
-
-    major language were C.
+    <p>major language were C.</p>
 </div>
 
 ## Hobbies
