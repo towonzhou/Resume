@@ -1,69 +1,110 @@
-# Nathaniel Welch
-
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
-
-## Background
-
-I am a software developer with an interest in communication and design. I enjoy experimenting with new things to expand my knowledge and I believe that creating ways for people to share knowledge is one of the greatest goals for mankind. 
-
-I strive to be a quick learner and both a competent leader and capable worker. I am an Eagle Scout and was an active officer of the Cal Poly Linux Users Group for three years. I was awarded Cal Poly's Residence Hall Council member of the year for both 2006 and 2007. In my free time I enjoy contributing to open source projects, hiking, reading and listening to music.
-
-## Education
-
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
-
-## Proficiency
-
-I have been writing code, running servers and experimenting with new software since 2002. Most recently the majority of code I have written has been in Java, Ruby, Javascript and Bash, but I have experience in C, Python, SML/NJ, C++, SQL and F#.
+<div id="header">
+	<h1><big>S</big>ian <big>C</big>ao</h1>
+	<h3>email: yinshuiboy (at) gmail (dot) com</h3>
+	<h3>tel: 15801412878</h3>
+	<h3>	
+	    <span>links: &nbsp;</span>
+	    <a href="http://sonald.me">homepage</a>
+    	<a href="http://github.com/sonald">github</a>
+    </h3>	
+</div>
 
 ## Experience
 
-### Google.com, San Francisco, CA
+### Red Flag Linux Co. Ltd, <small>Senior Software Developer, Junior Manager, 2007 - Present</small>
 
-#### Site Reliability Engineer - April 2012 to Present
+* Red Flag Desktop 6, 7, and 8 system development and maintainment
+* System management tools for Desktop, i.e display settings, power management, network management
+* Participate in the KDE development, got kde svn/git account, have commits into kdelibs, kdebase and phonon projects.
+* Bug fixes for KDE4 components, Plasma, 
+* research project for improving konqueror by providing more plugins (partially finished)
+* embedding Gecko(firefox rendering engine) into konqueror (partially finished)
+* build project management website for internal usage
+* Designing and building simple realtime web app framework for desktop system
+* Nodejs powered installer for Qomo and Linux Desktop
+* web-based software center backend
 
-I work as an SRE for Google Compute Engine and Google Cloud Storage.
+## Personal Projects
 
-#### Software Engineer - August 2011 to September 2012
+<div id="skills" class="sidebar clearfix">
+	<h3>Languages(frameworks)</h3>
+	<ol dir>
+        <li>Nodejs</li>
+		<li>Python</li>
+    	<li>C</li>		
+    	<li>C++</li>
+		<li>Javascript</li>
+		<li>Objective C</li>			
+	</ol>
+	
+	<h3>development env</h3>
+	<ul dir>
+		<li>git</li>
+		<li>zsh</li>
+		<li>tmux</li>
+		<li>mosh</li>
+		<li>vim/emacs</li>
+	</ul>
+</div>
 
-As a Software Engineer at Google, I worked on Punchd, Google Offers and Google Local.
+<div id="projects">
+	<h3>
+        iShell 
+        <span class="date">Present</span>
+    </h3>
+    <p>a simple shell written in 
+    <span class="language">Objective C</span> just for fun.</p>
 
-### Punchd, Mountain View, CA
+	<h3>
+        Semacs 
+        <span class="date">2011</span>
+    </h3>
+    <p>prototyping implementation of micro emacs clone. written in <span
+    class="language">C</span>. not finished.</p>
 
-#### Software Developer - May 2011 to July 2011
+	<h3> 
+        Loopy
+        <span class="date">2011</span>
+    </h3>
+    <p>cloned from original author, and add some missing features that I
+    needed.</p>
+	
+	<h3> 
+        Yos
+        <span class="date">2009</span>
+    </h3>
+    <p>my own OS venture based on skelix concept. I'm planning to rewrite the
+    kernel next year.</p>
 
-I was [Punchd](http://getpunchd.com)'s backend and operations engineer until we were acquired by Google in July 2011. Once at Google I continued to maintain Punchd's servers, backend API and web frontend. I also helped implement a version of Punchd built on Google's infrastructure, but it was never released.
+</div>
 
-### iFixit.com, San Luis Obispo CA
+## Education
 
-#### Software Developer - April 2009 to April 2011
+<div id="schools">
+    <h3> 
+        Wuhan University, Computerter Technology and Application, <small>2005 - 2007</small>
+    </h3>
+	<p>M.S. in Computer Science</p>
+	
+    projects during study:
 
-I wore a variety of hats including -- but not limited to -- writing code to promote high quality content and a stable community, helping keep servers afloat, and working with users to develop content. I wrote code mainly in PHP and Bash, and helped maintain our fleet of servers on Amazon's EC2 Service. 
+    <ul>
+    <li> 2005.7 - 2006.2, Graduate Management Info-System of Wuhan University </li>
+    <li> 2006.2 - 2007.2, Veri Expert System </li>
+    <li> 2006.8 - 2007.4, Predict and Personnel-Arrange system for chongqing power95598  </li>
+    <li> 2006.8 - 2006.9  MIS for TV station of Wuhan University  </li>
+    </ul>
 
- * Helped create a site-wide reputation community, which began with [iFixit.com/Answers](http://ifixit.com/Answers)
- * Helped maintain various servers, located on Amazon EC2, and local development machines
- * Developed the first JavaScript widget for iFixit's API.
- * Redefined iFixit's developer work flow
+    major language were Delphi, C++, and familiar with Oracle DB.
+	
+    <h3> 
+        Wuhan University, Computerter Science and Technology, <small>2001 - 2005</small>
+    </h3>
+	<p>Bachelor in Computer Science</p>
+</div>
 
-<!--
-### Adobe Systems Incorporated, San Francisco CA
-
-#### Dreamweaver Quality Engineering Intern - Summer 2007 and 2008
-
- * Tested both daily builds and released versions of Dreamweaver against various operating systems - including Mac OSX 10.4, Mac OSX 10.5, Windows Vista, and Windows XP.
- * Helped maintain the Server Matrix, Bug-base, and test a new test case application
- * Helped develop and test the Web Widgets Feature for Dreamweaver CS4, which won the "Dreamweaver Community Feature of the Year" award in 2008.
--->
-
-### BSA Camp Oljato, Lakeshore CA
-
-#### Nature Director - Summer 2006
-#### Camp Counselor - Summer 2002, 2003 and 2004
-
- * In charge of four staff members and responsible for planning the activities behind and maintaining the entire Nature area at camp, with an average of about 200 kids every week for seven weeks per summer.
- * Taught merit badge classes such as wilderness survival, camping, hiking, and others to children ages ten to eighteen.
-
+## Hobbies
+* focus on open source projects like tmux, zsh, emacs, qemacs, KDE4 etc 
+* linux hobbyist
+* mac fun
+* fond of programming languages, familiar with lisp, python, c, js, go, haskell
