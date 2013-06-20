@@ -30,9 +30,9 @@
 	<ol dir>
     	<li>C</li>		
         <li>Nodejs</li>
-    	<li>C++</li>
 		<li>javascript</li>
 		<li>ruby on rails</li>
+    	<li>C++</li>
 		<li>shell</li>			
 	</ol>
 	
