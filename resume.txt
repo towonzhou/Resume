@@ -13,8 +13,8 @@
 
 ### Red Flag Linux Co. Ltd, <small>Software Developer, 2011 - Present</small>
 
-* Red Flag Desktop 8 system maintenance, fixes bugs.
-* RedFlag inWise, Qomo 4.0, 4.1 and 4.2 system development from scratch and maintenance.
+* Red Flag Desktop 8 system maintenance, fixes bugs.(linux, kde)
+* RedFlag inWise, Qomo 4.0, 4.1 and 4.2 system development from scratch and maintenance.(linux, kde)
 * Updating and maintenance of the packages depot.
 * Bug fixes for installation program. (c, c++, Qt, shell)
 * Bug fixes for KDE4 components, Plasma. (c++)
