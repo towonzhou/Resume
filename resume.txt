@@ -13,25 +13,25 @@
 
 ### Red Flag Linux Co. Ltd, <small>Software Developer, 2011 - Present</small>
 
+* web-based Projects pages and software center. (ruby on rails, c, c++, js)
+* build Brainstorming website for internal usage. (rais, html, css, js)
+(<a href="http://qomo.linux-ren.org">qomo.linux-ren.org</a>)
+* A mobile application backend(Nodejs, socket.io)
 * Red Flag Desktop 8 system maintenance, fixes bugs.(linux, kde)
 * RedFlag inWise, Qomo 4.0, 4.1 and 4.2 system development from scratch and maintenance.(linux, kde)
 * Updating and maintenance of the packages depot.
 * Bug fixes for installation program. (c, c++, Qt, shell)
 * Bug fixes for KDE4 components, Plasma. (c++)
-* build Brainstorming website for internal usage. (rais, html, css, js)
-* web-based Projects pages and software center. (c, c++, js)
-(<a href="http://qomo.linux-ren.org">qomo.linux-ren.org</a>)
-* A mobile application backend(Nodejs, socket.io)
 
 ## Personal Projects
 
 <div id="skills" class="sidebar clearfix">
 	<h3>Languages(frameworks)</h3>
 	<ol dir>
+		<li>ruby on rails</li>
     	<li>C</li>		
         <li>Nodejs</li>
 		<li>javascript</li>
-		<li>ruby on rails</li>
     	<li>C++</li>
 		<li>shell</li>			
 	</ol>
