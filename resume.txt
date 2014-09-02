@@ -2,18 +2,18 @@
 	<h1><big>Z</big>hou <big>H</big>uan</h1>
 	<h3>email: towonzhou (at) gmail (dot) com</h3>
 	<h3>tel: 18620414923</h3>
-	<h3>	
+	<h3>
 	    <span>links: &nbsp;</span>
 	    <a href="http://towonzhou.github.io">homepage</a>
     	<a href="http://github.com/towonzhou">github</a>
-    </h3>	
+    </h3>
 </div>
 
 ## Experience
 
 ### Red Flag Linux Co. Ltd, <small>Software Developer, 2011 - Present</small>
 
-* web-based Projects pages and software center. (ruby on rails, c, c++, js)
+* web-based Projects pages and software center. (ruby, c, c++, js)
 * build Brainstorming website for internal usage. (rais, html, css, js)
 (<a href="http://qomo.linux-ren.org">qomo.linux-ren.org</a>)
 * A mobile application backend(Nodejs, socket.io)
@@ -29,13 +29,13 @@
 	<h3>Languages(frameworks)</h3>
 	<ol dir>
 		<li>ruby on rails</li>
-    	<li>C</li>		
+    	<li>C</li>
         <li>Nodejs</li>
 		<li>javascript</li>
     	<li>C++</li>
-		<li>shell</li>			
+		<li>shell</li>
 	</ol>
-	
+
 	<h3>development env</h3>
 	<ul dir>
 		<li>git</li>
@@ -51,7 +51,7 @@
         cloud-wallpaper
         <span class="date">2012</span>
     </h3>
-    <p>Easy deployment,backend program. written in 
+    <p>Easy deployment,backend program. written in
     <span class="language">nodejs</span> and <span class="language">rails</span>.
     not finished.</p>
 
@@ -59,17 +59,17 @@
         LFS
         <span class="date">2011</span>
     </h3>
-    <p>linux from scratch. 
+    <p>linux from scratch.
      To know linux.</p>
 
-	<h3> 
+	<h3>
         Student achievement management system
         <span class="date">2011</span>
     </h3>
     <p>the Graduation Thesis, written in <span class="language">C</span>.
     </p>
-	
-	<h3> 
+
+	<h3>
         Socket server
         <span class="date">2010</span>
     </h3>
@@ -81,7 +81,7 @@
 ## Education
 
 <div id="schools">
-    <h3> 
+    <h3>
         Hubei University Of Education, Information and Computing Sciences, <small>2007 - 2011</small>
     </h3>
 	<p>B.S. in Computer Science</p>
@@ -90,6 +90,6 @@
 </div>
 
 ## Hobbies
-* focus on open source projects like tmux, zsh, vim, KDE4 etc 
+* focus on open source projects like tmux, zsh, vim, KDE4 etc
 * linux hobbyist
-* fond of programming languages, shell, c, js, c++, ruby on rails, html, css 
+* fond of programming languages, shell, c, js, c++, ruby on rails, html, css
