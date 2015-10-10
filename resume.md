@@ -11,7 +11,12 @@
 
 ## Experience
 
-### 北京新空气软件技术有限公司 <small>ruby开发工程师, 2013.8 - 至今</small>
+### 大鱼自助游 <small>ruby开发工程师, 2014.12 - 至今</small>
+* 负责电商主站前后端开发(rails, html, css, js)
+* 制定代码reivew, 提交流程(git, gitlab)
+* 渠道对接开发(ruby, rails)
+
+### 北京新空气软件技术有限公司 <small>ruby开发工程师, 2013.8 - 2014.12</small>
 * 招商银行掌上生活客户端影票后台开发.(ruby, sinatra, rails,线上项目,核心成员)
 * 招商银行客户端影票后台开发.(ruby, sinatra,线上项目,独立完成)
 * 平安生活客户端影票后台开发.(ruby, sinatra,线上项目,独立完成)
