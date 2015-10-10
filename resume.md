@@ -63,6 +63,11 @@
 
 <div id="projects">
 	<h3>
+    大鱼主站
+    <span class="date">2014-2015</span>
+  </h3>
+  <p>电商的标准流程, 全栈工程师</p>
+	<h3>
         电影票后台
         <span class="date">2013-2014</span>
     </h3>
@@ -72,7 +77,8 @@
   <br/>
 	<h4>
       了解ruby,能手写gem供其他应用调用.熟悉元编程.
-      数据库用的是postgres,缓存用的是redis.
+      熟悉基本的ruby框架如rails, sinatra等
+      数据库熟悉mysql, postgres数据库, 缓存用的是redis.
   </h4>
   <br/>
 	<h4>
